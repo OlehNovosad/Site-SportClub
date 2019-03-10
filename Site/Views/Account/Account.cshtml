@@ -1,0 +1,88 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Work room</title>
+    <link rel="stylesheet" href="/Content/account.css"/>
+</head>
+
+<body>
+    <section class="modal">
+        <div id="bank" style="display: none;">
+            <button id="close" onclick="closeModal()">Close</button><br>
+            <form action="">
+                <label for="card">credit card</label><br>
+                <input type="number" id="reg-email"><br>
+                <label for="date"><pre>MM    YY        CVV2</pre></label>
+                <input name="date" type="number" size="2"> / <input name="date" type="number" size="2">
+                <input name="cvv" type="number" size="3"><br>
+
+                <button>send</button>
+            </form>
+        </div>
+    </section>
+
+    <header>
+        <img src="../img/logo.png" alt="logo">
+        <a href="/Home/Index"><button>Back to site</button></a>
+        <a href="/Account/Logout"><button>sign out</button></a>       
+    </header>
+
+    <section id="checking">
+        <div id="fullname">
+            <p>Hello Client</p>
+        </div>
+
+        <div class="subscription-box">
+            <div class="box" id="couch-box">
+                <span><b>Need couch?</b></span>
+                <br><br>
+                <span>+50 UAH</span>
+                <br>
+                <span>per month</span>
+            </div>
+
+            <div class="box active" id="box-1">
+                <span><b>1 month</b></span>
+                <br><br>
+                <span>300 UAH</span>
+            </div>
+
+            <div class="box" id="box-3">
+                <span><b>3 months</b></span>
+                <br><br>
+                <span>900 UAH</span>
+            </div>
+
+            <div class="box" id="box-6">
+                <span><b>6 month</b></span>
+                <br><br>
+                <span>1800 UAH</span>
+            </div>
+
+            <div class="box" id="box-12">
+                <span><b>1 year</b></span>
+                <br><br>
+                <span>3600 UAH</span>
+            </div>
+        </div>
+
+        <br><br>
+
+        <span id="price">300</span>
+        <button id="buy"><b>buy</b></button>
+
+    </section>
+
+    <script src="../Scripts/account.js"></script>
+
+</body>
+</html>

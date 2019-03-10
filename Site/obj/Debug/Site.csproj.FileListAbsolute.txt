@@ -1,0 +1,204 @@
+E:\Site-SportClub\Site\Site\bin\Site.dll.config
+E:\Site-SportClub\Site\Site\bin\Site.dll
+E:\Site-SportClub\Site\Site\bin\Site.pdb
+E:\Site-SportClub\Site\Site\bin\Antlr3.Runtime.dll
+E:\Site-SportClub\Site\Site\bin\Microsoft.Web.Infrastructure.dll
+E:\Site-SportClub\Site\Site\bin\Newtonsoft.Json.dll
+E:\Site-SportClub\Site\Site\bin\System.Web.Helpers.dll
+E:\Site-SportClub\Site\Site\bin\System.Web.Mvc.dll
+E:\Site-SportClub\Site\Site\bin\System.Web.Optimization.dll
+E:\Site-SportClub\Site\Site\bin\System.Web.Razor.dll
+E:\Site-SportClub\Site\Site\bin\System.Web.WebPages.Deployment.dll
+E:\Site-SportClub\Site\Site\bin\System.Web.WebPages.dll
+E:\Site-SportClub\Site\Site\bin\System.Web.WebPages.Razor.dll
+E:\Site-SportClub\Site\Site\bin\WebGrease.dll
+E:\Site-SportClub\Site\Site\bin\System.Web.Helpers.xml
+E:\Site-SportClub\Site\Site\bin\System.Web.Mvc.xml
+E:\Site-SportClub\Site\Site\bin\System.Web.Optimization.xml
+E:\Site-SportClub\Site\Site\bin\System.Web.Razor.xml
+E:\Site-SportClub\Site\Site\bin\System.Web.WebPages.xml
+E:\Site-SportClub\Site\Site\bin\System.Web.WebPages.Deployment.xml
+E:\Site-SportClub\Site\Site\bin\System.Web.WebPages.Razor.xml
+E:\Site-SportClub\Site\Site\bin\Antlr3.Runtime.pdb
+E:\Site-SportClub\Site\Site\bin\Newtonsoft.Json.xml
+E:\Site-SportClub\Site\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+E:\Site-SportClub\Site\Site\obj\Debug\Site.dll
+E:\Site-SportClub\Site\Site\obj\Debug\Site.pdb
+E:\Site-SportClub\Site\Site\bin\EntityFramework.dll
+E:\Site-SportClub\Site\Site\bin\EntityFramework.SqlServer.dll
+E:\Site-SportClub\Site\Site\bin\EntityFramework.xml
+E:\Site-SportClub\Site\Site\bin\EntityFramework.SqlServer.xml
+E:\Site-SportClub\Site\Site\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Site-SportClub\Site\Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Site-SportClub\Site\Site\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.dll
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.Security.dll
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Site-SportClub\Site\Site\bin\Owin.dll
+E:\Site-SportClub\Site\Site\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Site-SportClub\Site\Site\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Site-SportClub\Site\Site\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.xml
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.Security.xml
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Site-SportClub\Site\Site\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Site-SportClub\Site\Site\obj\Debug\Site.Migrations.InitialCreate.resources
+E:\Site-SportClub\Site\Site\obj\Debug\Site.csproj.GenerateResource.Cache
+E:\Site-SportClub\Site\Site\obj\Debug\Site.Migrations.Id.resources
+E:\repository\Site-SportClub\Site\bin\Site.dll.config
+E:\repository\Site-SportClub\Site\bin\Site.dll
+E:\repository\Site-SportClub\Site\bin\Site.pdb
+E:\repository\Site-SportClub\Site\bin\Antlr3.Runtime.dll
+E:\repository\Site-SportClub\Site\bin\EntityFramework.dll
+E:\repository\Site-SportClub\Site\bin\EntityFramework.SqlServer.dll
+E:\repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.Core.dll
+E:\repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.dll
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.Cookies.dll
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.dll
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.OAuth.dll
+E:\repository\Site-SportClub\Site\bin\Microsoft.Web.Infrastructure.dll
+E:\repository\Site-SportClub\Site\bin\Newtonsoft.Json.dll
+E:\repository\Site-SportClub\Site\bin\Owin.dll
+E:\repository\Site-SportClub\Site\bin\System.Web.Helpers.dll
+E:\repository\Site-SportClub\Site\bin\System.Web.Mvc.dll
+E:\repository\Site-SportClub\Site\bin\System.Web.Optimization.dll
+E:\repository\Site-SportClub\Site\bin\System.Web.Razor.dll
+E:\repository\Site-SportClub\Site\bin\System.Web.WebPages.Deployment.dll
+E:\repository\Site-SportClub\Site\bin\System.Web.WebPages.dll
+E:\repository\Site-SportClub\Site\bin\System.Web.WebPages.Razor.dll
+E:\repository\Site-SportClub\Site\bin\WebGrease.dll
+E:\repository\Site-SportClub\Site\bin\EntityFramework.xml
+E:\repository\Site-SportClub\Site\bin\EntityFramework.SqlServer.xml
+E:\repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.Core.xml
+E:\repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.xml
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.xml
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.Cookies.xml
+E:\repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.OAuth.xml
+E:\repository\Site-SportClub\Site\bin\System.Web.Helpers.xml
+E:\repository\Site-SportClub\Site\bin\System.Web.Mvc.xml
+E:\repository\Site-SportClub\Site\bin\System.Web.Optimization.xml
+E:\repository\Site-SportClub\Site\bin\System.Web.Razor.xml
+E:\repository\Site-SportClub\Site\bin\System.Web.WebPages.xml
+E:\repository\Site-SportClub\Site\bin\System.Web.WebPages.Deployment.xml
+E:\repository\Site-SportClub\Site\bin\System.Web.WebPages.Razor.xml
+E:\repository\Site-SportClub\Site\bin\Antlr3.Runtime.pdb
+E:\repository\Site-SportClub\Site\bin\Newtonsoft.Json.xml
+E:\repository\Site-SportClub\Site\obj\Debug\Site.Migrations.InitialCreate.resources
+E:\repository\Site-SportClub\Site\obj\Debug\Site.Migrations.Id.resources
+E:\repository\Site-SportClub\Site\obj\Debug\Site.csproj.GenerateResource.Cache
+E:\repository\Site-SportClub\Site\obj\Debug\Site.dll
+E:\repository\Site-SportClub\Site\obj\Debug\Site.pdb
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Site.dll.config
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Site.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Site.pdb
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Antlr3.Runtime.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\EntityFramework.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\EntityFramework.SqlServer.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.Security.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Newtonsoft.Json.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Owin.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.Helpers.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.Mvc.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.Optimization.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.Razor.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.WebPages.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\WebGrease.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\EntityFramework.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\EntityFramework.SqlServer.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.Security.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.Helpers.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.Mvc.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.Optimization.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.Razor.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.WebPages.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Antlr3.Runtime.pdb
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\bin\Newtonsoft.Json.xml
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\obj\Debug\Site.Migrations.InitialCreate.resources
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\obj\Debug\Site.Migrations.Id.resources
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\obj\Debug\Site.csproj.GenerateResource.Cache
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\obj\Debug\Site.dll
+C:\Users\Oleh Novosad\Downloads\Site-SportClub-master\Site-SportClub-master\Site\obj\Debug\Site.pdb
+E:\Repository\Site-SportClub\Site\obj\Debug\Site.csproj.CoreCompileInputs.cache
+E:\Repository\Site-SportClub\Site\obj\Debug\Site.csprojAssemblyReference.cache
+E:\Repository\Site-SportClub\Site\obj\Debug\Site.csproj.CopyComplete
+E:\Programming\Repository\Site-SportClub\Site\bin\Site.dll.config
+E:\Programming\Repository\Site-SportClub\Site\bin\Site.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Site.pdb
+E:\Programming\Repository\Site-SportClub\Site\bin\Antlr3.Runtime.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\EntityFramework.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\EntityFramework.SqlServer.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Web.Infrastructure.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Newtonsoft.Json.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\Owin.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.Helpers.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.Mvc.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.Optimization.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.Razor.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.WebPages.Deployment.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.WebPages.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.WebPages.Razor.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\WebGrease.dll
+E:\Programming\Repository\Site-SportClub\Site\bin\EntityFramework.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\EntityFramework.SqlServer.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.Helpers.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.Mvc.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.Optimization.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.Razor.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.WebPages.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.WebPages.Deployment.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\System.Web.WebPages.Razor.xml
+E:\Programming\Repository\Site-SportClub\Site\bin\Antlr3.Runtime.pdb
+E:\Programming\Repository\Site-SportClub\Site\bin\Newtonsoft.Json.xml
+E:\Programming\Repository\Site-SportClub\Site\obj\Debug\Site.csprojAssemblyReference.cache
+E:\Programming\Repository\Site-SportClub\Site\obj\Debug\Site.Migrations.InitialCreate.resources
+E:\Programming\Repository\Site-SportClub\Site\obj\Debug\Site.Migrations.Id.resources
+E:\Programming\Repository\Site-SportClub\Site\obj\Debug\Site.csproj.GenerateResource.cache
+E:\Programming\Repository\Site-SportClub\Site\obj\Debug\Site.csproj.CoreCompileInputs.cache
+E:\Programming\Repository\Site-SportClub\Site\obj\Debug\Site.csproj.CopyComplete
+E:\Programming\Repository\Site-SportClub\Site\obj\Debug\Site.dll
+E:\Programming\Repository\Site-SportClub\Site\obj\Debug\Site.pdb

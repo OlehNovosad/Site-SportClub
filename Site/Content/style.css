@@ -1,0 +1,614 @@
+@import url(../Content/fonts.css);
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #fff;
+}
+
+#banner {
+  background-image: url(../img/banner-bg.jpg);
+  background-repeat: no-repeat;
+  -webkit-background-size: 100% 100%;
+          background-size: 100%;
+}
+
+#banner .banner-title {
+  position: relative;
+  padding-top: 160px;
+  padding-bottom: 52px;
+  padding-left: 215px;
+  width: 400px;
+  height: 450px;
+  text-transform: uppercase;
+}
+
+#banner .banner-title p {
+  padding-left: 30px;
+  font-family: RalewayRegular;
+  font-size: 50px;
+}
+
+#banner .banner-title button {
+  position: absolute;
+  width: 162px;
+  height: 48px;
+  font-family: RalewayRegular;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #fff;
+  bottom: 35px;
+}
+
+#banner .banner-title button:hover {
+  cursor: pointer;
+}
+
+#banner .banner-title #sign-in {
+  outline: none;
+  border: 1px solid #ec3642;
+  background-color: transparent;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  left: 230px;
+}
+
+#banner .banner-title #sign-in:hover {
+  border: none;
+  background-color: #ec3642;
+}
+
+#banner .banner-title #sign-up {
+  outline: none;
+  border: none;
+  background-color: #ec3642;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  right: 30px;
+}
+
+#banner .banner-title #sign-up:hover {
+  border: 1px solid #ec3642;
+  background-color: transparent;
+}
+
+header {
+  width: 911px;
+  height: 75px;
+  text-align: center;
+  margin-left: 216px;
+  position: fixed;
+  top: 0;
+  padding-top: 10px;
+}
+
+header p {
+  font-family: RalewayItalic;
+  font-size: 20px;
+  float: left;
+}
+
+header .menu {
+  position: absolute;
+  right: 0;
+  left: 0;
+  padding-top: 10px;
+}
+
+header .menu .menu-item {
+  display: inline;
+  list-style: none;
+  margin-left: 40px;
+}
+
+header .menu .menu-item a {
+  text-decoration: none;
+  font-family: RalewayRegular;
+  font-size: 25px;
+  color: #fff;
+}
+
+header .menu .menu-item a:hover {
+  color: #e38b91;
+}
+
+header .header-social {
+  margin-top: 15px;
+}
+
+header .header-social a {
+  display: block;
+  width: 30px;
+  height: 30px;
+}
+
+header .header-social .social-insta {
+  background-image: url(../img/social-insta.png);
+  -webkit-background-size: contain;
+          background-size: contain;
+  float: right;
+}
+
+header .header-social .social-fb {
+  background-image: url(../img/social-fb.png);
+  -webkit-background-size: contain;
+          background-size: contain;
+  float: right;
+}
+
+#services {
+  background-color: #ec3642;
+  text-align: center;
+  padding-top: 30px;
+}
+
+#services .services-title {
+  text-transform: uppercase;
+  font-family: RalewaySemiBold;
+  font-size: 34px;
+  margin-bottom: 15px;
+}
+
+#services .services-description {
+  font-family: RalewayRegular;
+  font-size: 18px;
+  margin-bottom: 45px;
+}
+
+#services .services-icons {
+  margin: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 630px;
+  height: 380px;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+#services .services-icons div {
+  margin-right: 50px;
+}
+
+#services .services-icons div img {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 20px;
+}
+
+#services .services-icons div span {
+  font-family: RalewayRegular;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+#services .services-buy {
+  margin-top: 20px;
+  border: 2px solid #444;
+  outline: none;
+  width: 153px;
+  height: 40px;
+  color: #444;
+  background-color: transparent;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  text-transform: uppercase;
+  font-family: RalewaySemiBold;
+  margin-bottom: 50px;
+}
+
+#services .services-buy:hover {
+  color: #fff;
+  border: 2px solid #fff;
+  cursor: pointer;
+}
+
+#comfort {
+  background-color: #2d322f;
+  text-align: center;
+}
+
+#comfort .comfort-title {
+  text-transform: uppercase;
+  font-family: RalewayRegular;
+  font-size: 20px;
+  padding-top: 25px;
+}
+
+#comfort .comfort-icons {
+  width: 930px;
+  margin: auto;
+  margin-top: 25px;
+  padding-bottom: 25px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: nowrap;
+      -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  text-align: center;
+  font-family: RalewayRegular;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+#comfort .comfort-icons img {
+  margin-bottom: 10px;
+}
+
+#slides {
+  position: relative;
+  height: 573px;
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+}
+
+#slides .slide {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  z-index: 1;
+  -webkit-transition: opacity 1s;
+  -o-transition: opacity 1s;
+  transition: opacity 1s;
+  font-size: 40px;
+  padding: 40px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: #ec3642;
+  color: #fff;
+}
+
+#slides .slide:nth-of-type(1) {
+  background-image: url(../img/slider-1.jpg);
+  background-repeat: no-repeat;
+  background-position: 220px 0;
+}
+
+#slides .slide:nth-of-type(2) {
+  background-image: url(../img/slider-2.jpg);
+  background-repeat: no-repeat;
+  background-position: 220px 0;
+}
+
+#slides .slide:nth-of-type(3) {
+  background-image: url(../img/slider-3.jpg);
+  background-repeat: no-repeat;
+  background-position: 220px 0;
+}
+
+#slides .slide:nth-of-type(4) {
+  background-image: url(../img/slider-4.jpg);
+  background-repeat: no-repeat;
+  background-position: 220px 0;
+}
+
+#slides .slide:nth-of-type(5) {
+  background-image: url(../img/slider-5.jpg);
+  background-repeat: no-repeat;
+  background-position: 220px 0;
+}
+
+#slides .slide:nth-of-type(6) {
+  background-image: url(../img/slider-6.jpg);
+  background-repeat: no-repeat;
+  background-position: 220px 0;
+}
+
+#slides .slide:nth-of-type(7) {
+  background-image: url(../img/slider-7.jpg);
+  background-repeat: no-repeat;
+  background-position: 220px 0;
+}
+
+#slides .showing {
+  opacity: 1;
+  z-index: 2;
+}
+
+.buttons {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  z-index: 10;
+  font-size: 0px;
+}
+
+.controls {
+  background: #333;
+  color: #fff;
+  border: none;
+  padding: 20px 0px;
+  font-size: 20px;
+  cursor: pointer;
+  border: 2px solid #fff;
+  margin: 10px 0px 0px 10px;
+  width: 70px;
+}
+
+.controls:hover,
+.controls:focus {
+  background: #eee;
+  color: #333;
+}
+
+#previous {
+  margin-top: 250px;
+}
+
+#next {
+  margin-right: 10px;
+  margin-top: 250px;
+  float: right;
+}
+
+#photos {
+  position: relative;
+  height: 573px;
+}
+
+footer {
+  background-color: #2d322f;
+  padding-top: 50px;
+}
+
+footer .footer-body {
+  width: 640px;
+  height: 450px;
+  margin: auto;
+}
+
+footer .footer-body .address-block {
+  float: left;
+}
+
+footer .footer-body .contact-form {
+  float: right;
+  margin-right: 20px;
+}
+
+footer .footer-body .contact-form form {
+  margin-top: 25px;
+}
+
+footer .footer-body .contact-form input[type="text"],
+footer .footer-body .contact-form input[type="email"] {
+  width: 302px;
+  height: 29px;
+  margin-bottom: 5px;
+}
+
+footer .footer-body .contact-form input[type="text"],
+footer .footer-body .contact-form input[type="email"],
+footer .footer-body .contact-form textarea {
+  font-family: RalewayRegular;
+  color: #fff;
+  background-color: transparent;
+  border: 2px solid #fff;
+  outline: none;
+  padding-left: 5px;
+}
+
+footer .footer-body .contact-form textarea {
+  padding-top: 5px;
+  resize: none;
+  overflow: auto;
+}
+
+footer .footer-body .contact-form input[type="submit"] {
+  width: 80px;
+  height: 30px;
+  border: none;
+  outline: none;
+  background-color: #ec3642;
+  font-family: RalewayRegular;
+  color: #fff;
+  float: right;
+  margin-top: 2px;
+}
+
+footer .footer-body .address-block h2,
+footer .footer-body .contact-form h2 {
+  font-family: RaleWaySemiBold;
+  font-size: 30px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+footer .footer-body .address-block span,
+footer .footer-body .contact-form span {
+  font-family: RalewayRegular;
+  font-size: 14px;
+}
+
+.modal {
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  top: 200px;
+  font-family: RalewayRegular;
+  font-size: 18px;
+}
+
+#modal-signin {
+  display: none;
+  margin: auto;
+  text-align: center;
+  background-color: #2d322f;
+  border: 5px solid #ec3642;
+  width: 400px;
+  height: 220px;
+}
+
+#modal-signin form {
+  margin-top: 10px;
+}
+
+#modal-signin form input {
+  width: 200px;
+  height: 25px;
+  margin-bottom: 10px;
+  font-family: RalewayRegular;
+  color: #fff;
+  background-color: transparent;
+  border: 2px solid #fff;
+  outline: none;
+  padding-left: 5px;
+}
+
+#modal-signin form button {
+  margin-top: 5px;
+  width: 162px;
+  height: 48px;
+  font-family: RalewayRegular;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #fff;
+  bottom: 35px;
+  outline: none;
+  border: 1px solid #ec3642;
+  background-color: transparent;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+}
+
+#modal-signin form button:hover {
+  cursor: pointer;
+  border: none;
+  background-color: #ec3642;
+}
+
+#modal-signup {
+  display: none;
+  margin: auto;
+  text-align: center;
+  background-color: #2d322f;
+  border: 5px solid #ec3642;
+  width: 400px;
+  height: 345px;
+}
+
+#modal-signup form {
+  margin-top: 10px;
+}
+
+#modal-signup form input {
+  width: 200px;
+  height: 25px;
+  margin-bottom: 10px;
+  font-family: RalewayRegular;
+  color: #fff;
+  background-color: transparent;
+  border: 2px solid #fff;
+  outline: none;
+  padding-left: 5px;
+}
+
+#modal-signup form button {
+  margin-top: 5px;
+  width: 162px;
+  height: 48px;
+  font-family: RalewayRegular;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #fff;
+  bottom: 35px;
+  outline: none;
+  border: 1px solid #ec3642;
+  background-color: transparent;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+}
+
+#modal-signup form button:hover {
+  cursor: pointer;
+  border: none;
+  background-color: #ec3642;
+}
+
+#modal-buy {
+  display: none;
+  margin: auto;
+  background-color: #2d322f;
+  border: 5px solid #ec3642;
+  width: 400px;
+  height: 180px;
+}
+
+#modal-buy .modal-description {
+  text-align: center;
+  margin-top: 25px;
+}
+
+#modal-buy button {
+  width: 162px;
+  height: 48px;
+  font-family: RalewayRegular;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #fff;
+  bottom: 35px;
+  outline: none;
+  border: 1px solid #ec3642;
+  background-color: transparent;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+}
+
+#modal-buy button:hover {
+  cursor: pointer;
+  border: none;
+  background-color: #ec3642;
+}
+
+#modal-buy #sign-in {
+  float: left;
+  margin-top: 25px;
+  margin-left: 30px;
+}
+
+#modal-buy #sign-up {
+  float: right;
+  margin-top: 25px;
+  margin-right: 30px;
+}
+
+#close {
+  float: right;
+  border: none;
+  outline: none;
+  font-family: RalewayRegular;
+  font-size: 12px;
+  text-transform: none;
+  color: #fff;
+  background: none;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+#account {
+  display: none;
+}
+
+#footerbyname {
+    background-color: #2d322f;
+    font-family: RalewayRegular;
+}

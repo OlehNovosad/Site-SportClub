@@ -1,0 +1,212 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Site - SportClub</title>
+    <link rel="stylesheet" href="../Content/style.css">
+</head>
+<body>
+
+    <!-- MODAL WINDOWS -->
+
+    <section class="modal">
+        <div id="modal-buy">
+            <p class="modal-description">
+                Want to buy subscription?<br>
+                Please sign in or sign up.
+            </p>
+            <a href="/Account/Login"><button id="sign-in">sign in</button></a><a href="/Account/Register"><button id="sign-up">sign up</button></a>
+        </div>
+    </section>
+
+    <!-- BANNER -->
+
+    <section id="banner">
+        <div class="banner-title">
+            <img src="../img/logo.png" alt="GYM">
+            <p>sport club</p>
+            <a href="/Account/Login"><button id="sign-in">sign in</button></a><a href="/Account/Register"><button id="sign-up">sign up</button></a>
+        </div>
+    </section>
+
+    <!-- MENU -->
+
+    <header>
+        <ul class="menu">
+            <li class="menu-item">
+                <a href="#banner">Start</a>
+            </li>
+            <li class="menu-item">
+                <a href="#services">Services</a>
+            </li>
+            <li class="menu-item">
+                <a href="#photos">Photo</a>
+            </li>
+            <li class="menu-item">
+                <a href="#footer">Contacts</a>
+            </li>
+            <li class="menu-item">
+                <a href="/Account/Account">Work room</a>
+            </li>
+        </ul>
+        <p>073-21-13-697<br>10.00 - 22.00</p>
+        <div class="header-social">
+            <a href="#" class="social-insta"></a>
+            <a href="#" class="social-fb"></a>
+        </div>
+    </header>
+
+    <!-- SERVICES -->
+
+    <section id="services">
+        <h1 class="services-title">in our gym</h1>
+        <p class="services-description">
+            GYM - an affordable fitness club. Here the most popular group programs,<br>
+            all necessary for a full-fledged power, functional and cardio workout on professional<br>
+            equipment Magnum Fitness, True, Nautilus, Cybex, Mb, Barbell, etc. Our club has excellent coaches,<br>
+            a friendly atmosphere, great music and we are happy to see newcomers, amateurs and pros here.
+        </p>
+        <div class="services-icons">
+            <div>
+                <img src="../img/cardio.png" alt="cardio">
+                <br><span>cardio zone</span>
+            </div>
+            <div>
+                <img src="../img/barbell.png" alt="barbell">
+                <br><span>barbells</span>
+            </div>
+            <div>
+                <img src="../img/trainer.png" alt="trainer">
+                <br><span>trainers</span>
+            </div>
+            <div>
+                <img src="../img/boxing.png" alt="boxing">
+                <br><span>boxing</span>
+            </div>
+            <div>
+                <img src="../img/trx.png" alt="trx">
+                <br><span>trx</span>
+            </div>
+            <div>
+                <img src="../img/couching.png" alt="couching">
+                <br><span>couching</span>
+            </div>
+        </div>
+        <button class="services-buy" id="buy-subscription" onclick="openModal()">buy subscription</button>
+    </section>
+
+    <!-- COMFORT -->
+
+    <section id="comfort">
+        <h1 class="comfort-title">our convenience</h1>
+        <div class="comfort-icons">
+            <div>
+                <img src="../img/cabin.png" alt="cabin">
+                <br><span>separate<br>cabins</span>
+            </div>
+            <div>
+                <img src="../img/cabinets.png" alt="cabinets">
+                <br><span>individual<br>cabinets</span>
+            </div>
+            <div>
+                <img src="../img/shower.png" alt="shower">
+                <br><span>2 shower<br>rooms</span>
+            </div>
+            <div>
+                <img src="../img/weigher.png" alt="weigher">
+                <br><span>electronic<br>weigher</span>
+            </div>
+            <div>
+                <img src="../img/food.png" alt="food">
+                <br><span>sports<br>food</span>
+            </div>
+            <div>
+                <img src="../img/drink.png" alt="drink">
+                <br><span>sport<br>drinks</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- PHOTOS SLIDER -->
+
+    <section id="photos">
+        <div class="container">
+            <ul id="slides">
+                <li class="slide"></li>
+                <li class="slide"></li>
+                <li class="slide"></li>
+                <li class="slide"></li>
+                <li class="slide showing"></li>
+                <li class="slide"></li>
+                <li class="slide"></li>
+            </ul>
+            <div class="buttons">
+                <button class="controls" id="previous">&lt;</button>
+
+                <button class="controls" id="next">&gt;</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+
+    <footer>
+        <div id="footer" class="footer-body">
+            <div class="address-block">
+                <h2>address</h2>
+                <img src="../img/footer-logo.png" alt="logo"><br><br><br>
+                <span>Address 37/5</span><br>
+                <span>Lviv</span><br><br>
+                <span>Hours of work</span><br>
+                <span>Every day 10:00 - 22:00</span><br><br>
+                <span>
+                    Phone: (073-21-13-67)
+                </span><br><br>
+                <span>
+                    olehnovosad2013@gmail.com
+                </span><br><br>
+                <div class="footer-social">
+                    <a href="#"><img src="../img/social-fb.png" alt="fb"></a>
+                    <a href="#"><img src="../img/social-insta.png" alt="insta"></a>
+                </div>
+            </div>
+
+            <div class="contact-form">
+                <h2>contact us</h2>
+                <span>
+                    Do you have questions or suggestions?<br>
+                    Write to us, we will be happy to answer.
+                </span>
+                <form action="">
+                    <input type="text" placeholder="Name"><br>
+                    <input type="email" placeholder="Email"><br>
+                    <textarea name="message" id="message" cols="41" rows="9" placeholder="Message"></textarea><br>
+                    <input type="submit" value="Send">
+                </form>
+            </div>
+        </div>
+    </footer>
+
+    <!-- MAP -->
+
+    <section id="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d4453.965192999456!2d24.029801342868417!3d49.843390115674914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sua!4v1511699782856" id="googlemaps" width="100%" height="380px" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+    </section>
+    
+<section id="footerbyname">
+    <p class="">Designed and developed by Oleh Novosad CS-46<sup>&#169</sup></p>
+</section>
+
+    <script type="text/javascript" src="../Scripts/model.js"></script>
+    <script type="text/javascript" src="../Scripts/slider.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,68 @@
+﻿@font-face {
+    font-family: 'UbuntuRegular';
+    src: url('../fonts/UbuntuR.eot');
+    src: url('../fonts/UbuntuR.eot') format('embedded-opentype'),
+         url('../fonts/UbuntuR.woff2') format('woff2'),
+         url('../fonts/UbuntuR.woff') format('woff'),
+         url('../fonts/UbuntuR.ttf') format('truetype'),
+         url('../fonts/UbuntuR.svg#UbuntuR') format('svg');
+}
+
+body {
+    background-color: #2d322f;
+    color: #ee7942;
+    font-family: UbuntuRegular;
+    text-transform: uppercase;
+}
+
+.form-horizontal {
+    text-align: center;
+    width: 510px;
+    margin: auto;
+    margin-top: 225px;
+    font-family: UbuntuRegular;
+}
+
+input {
+    width: 500px;
+    height: 25px;
+    outline: none;
+    border: 2px solid #EE7942;
+    background-color: transparent;
+    margin-bottom: 20px;
+    color: #ee7942;
+    font-family: UbuntuRegular;
+}
+
+input:last-child {
+    color: #ee7942;
+    text-transform: uppercase;
+    font-family: UbuntuRegular;
+    cursor: pointer;
+}
+
+input:last-child:hover {
+    color: #2d322f;
+    background-color: #ee7942;
+}
+
+.back-to-site {
+    position: absolute;
+    top: 25px;
+    right: 15px;
+}
+
+ .back-anchor {
+     color: #ee7942;
+     text-decoration: none;
+     border: 2px solid #ee7942;
+     cursor: pointer;
+     font-family: UbuntuRegular;
+     border-radius: 10px;
+     padding: 10px 15px;
+ }
+
+ .back-anchor:hover {
+     color: #2d322f;
+     background-color: #ee7942;
+ }

@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'RalewayRegular';
+    src: url('../fonts/RalewayRegular.eot');
+    src: url('../fonts/RalewayRegular.eot') format('embedded-opentype'),
+         url('../fonts/RalewayRegular.woff2') format('woff2'),
+         url('../fonts/RalewayRegular.woff') format('woff'),
+         url('../fonts/RalewayRegular.ttf') format('truetype'),
+         url('../fonts/RalewayRegular.svg#RalewayRegular') format('svg');
+}
+
+
+@font-face {
+    font-family: 'RalewayItalic';
+    src: url('../fonts/RalewayItalic.eot');
+    src: url('../fonts/RalewayItalic.eot') format('embedded-opentype'),
+         url('../fonts/RalewayItalic.woff2') format('woff2'),
+         url('../fonts/RalewayItalic.woff') format('woff'),
+         url('../fonts/RalewayItalic.ttf') format('truetype'),
+         url('../fonts/RalewayItalic.svg#RalewayItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'RalewayBoldItalic';
+    src: url('../fonts/RalewayBoldItalic.eot');
+    src: url('../fonts/RalewayBoldItalic.eot') format('embedded-opentype'),
+         url('../fonts/RalewayBoldItalic.woff2') format('woff2'),
+         url('../fonts/RalewayBoldItalic.woff') format('woff'),
+         url('../fonts/RalewayBoldItalic.ttf') format('truetype'),
+         url('../fonts/RalewayBoldItalic.svg#RalewayBoldItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'RalewaySemiBold';
+    src: url('../fonts/RalewaySemiBold.eot');
+    src: url('../fonts/RalewaySemiBold.eot') format('embedded-opentype'),
+         url('../fonts/RalewaySemiBold.woff2') format('woff2'),
+         url('../fonts/RalewaySemiBold.woff') format('woff'),
+         url('../fonts/RalewaySemiBold.ttf') format('truetype'),
+         url('../fonts/RalewaySemiBold.svg#RalewaySemiBold') format('svg');
+}

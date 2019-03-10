@@ -1,0 +1,212 @@
+﻿@font-face {
+    font-family: 'UbuntuRegular';
+    src: url('../fonts/UbuntuR.eot');
+    src: url('../fonts/UbuntuR.eot') format('embedded-opentype'),
+         url('../fonts/UbuntuR.woff2') format('woff2'),
+         url('../fonts/UbuntuR.woff') format('woff'),
+         url('../fonts/UbuntuR.ttf') format('truetype'),
+         url('../fonts/UbuntuR.svg#UbuntuR') format('svg');
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #2d322f;
+    font-family: UbuntuRegular;
+}
+
+header {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+header img {
+    width: 250px
+}
+
+header button {
+    outline: none;
+    border: 2px solid #EE7942;
+    border-radius: 10px;
+    background-color: transparent;
+    width: 162px;
+    height: 48px;
+    text-transform: uppercase;
+    float: right;
+    margin-top: 8px;
+    margin-right: 27px;
+    text-decoration: none;
+    color: #EE7942;
+}
+
+header button:hover {
+    background-color: #EE7942;
+    cursor: pointer;
+    color: #2d322f;
+}
+
+#checking {
+    color: #2d322f;
+    margin: auto;
+    width: 95%;
+    height: 590px;
+    margin-top: 15px;
+    margin-left: 22px;
+    margin-right: 22px;
+    padding: 15px;
+    background-color: #EE7942;
+}
+
+#checking #fullname {
+    margin-bottom: 15px;
+    font-size: 24px;
+}
+
+#checking button {
+    margin-left: 71px;
+    outline: none;
+    border: 2px solid #2d322f;
+    border-radius: 10px;
+    background-color: transparent;
+    width: 120px;
+    height: 40px;
+    text-transform: uppercase;
+    color: #2d322f;
+    float: left;
+}
+
+#checking button:hover {
+    background-color: #2d322f;
+    cursor: pointer;
+    color: #EE7942;
+}
+
+#price {
+    margin-left: 15px;
+    font-size: 30px;
+}
+
+.subscription-box {
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    cursor: pointer;
+    padding-top: 60px;
+    border: 2px solid #2d322f;
+    color: #2d322f;
+    width: 150px;
+    height: 140px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.box:hover {
+    background-color: #2d322f;
+    color: #EE7942;
+}
+
+#couch-box {
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+.active {
+    background-color: #2d322f;
+    color: #EE7942;
+}
+
+.modal {
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    top: 200px;
+    font-size: 18px;
+    color: #EE7942;
+    font-family: UbuntuRegular;
+    text-transform: uppercase;
+}
+
+#bank {
+    position: absolute;
+    display: none;
+    margin: auto;
+    text-align: center;
+    background-color: #2d322f;
+    border: 5px solid #EE7942;
+    width: 400px;
+    height: 230px;
+    left: 590px;
+}
+
+#bank form {
+    margin-top: 10px;
+}
+
+#bank form input {
+    width: 200px;
+    height: 25px;
+    margin-bottom: 10px;
+    font-family: UbuntuRegular;
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #EE7942;
+    outline: none;
+    padding-left: 5px;
+}
+
+#bank form button {
+    margin-top: 5px;
+    width: 162px;
+    height: 48px;
+    font-family: UbuntuRegular;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #EE7942;
+    bottom: 35px;
+    outline: none;
+    border: 1px solid #EE7942;
+    background-color: transparent;
+    -webkit-border-radius: 5px;
+            border-radius: 5px;
+}
+
+#bank form button:hover {
+    cursor: pointer;
+    border: none;
+    background-color: #EE7942;
+    color: #2d322f;
+}
+
+#close {
+    float: right;
+    border: none;
+    outline: none;
+    font-family: UbuntuRegular;
+    font-size: 12px;
+    text-transform: none;
+    color: #EE7942;
+    background: none;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+input[name="date"] {
+    width: 30px !important;
+}
+
+input[name="cvv"] {
+    width: 40px !important;
+    margin-left: 60px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
